@@ -1,18 +1,18 @@
-# Welcome to your Lovable project
+# Welcome to your my project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/ee01a494-c313-4c39-97d9-04415cdff0f8
+**URL**: https://preview--vision-share-together.lovable.app
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ee01a494-c313-4c39-97d9-04415cdff0f8) and start prompting.
+Simply visit the [Project](https://lovable.dev/projects/ee01a494-c313-4c39-97d9-04415cdff0f8) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+
 
 **Use your preferred IDE**
 
@@ -62,9 +62,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/ee01a494-c313-4c39-97d9-04415cdff0f8) and click on Share -> Publish.
+Simply open [Here](https://lovable.dev/projects/ee01a494-c313-4c39-97d9-04415cdff0f8) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my project?
 
 Yes, you can!
 
